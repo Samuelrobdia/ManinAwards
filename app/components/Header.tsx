@@ -10,7 +10,7 @@ export default function Header() {
             <span className="text-[#8B4513]">25</span>
           </h1>
           <nav className="hidden md:block">
-            <ul className="flex space¶-x-8">
+            <ul className="flex space-x-8">
               <li><a href="#inicio" className="text-sm text-white/70 hover:text-white transition-colors">Inicio</a></li>
               <li><a href="#galeria" className="text-sm text-white/70 hover:text-white transition-colors">Galería</a></li>
               <li><a href="#propuestas" className="text-sm text-white/70 hover:text-white transition-colors">Propuestas</a></li>
